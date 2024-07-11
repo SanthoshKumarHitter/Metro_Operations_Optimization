@@ -25,20 +25,33 @@ Explore Metro Operations Optimization through data-driven techniques to enhance 
             Extract the dataset in your project directory.
 
   **2) DataSets**
+  
        Agency: Information about the Delhi Metro Rail Corporation.
+       
        Calendar: Service schedules delineating the operation days.
+       
        Routes: Details of metro routes.
+       
        Shapes: Geographical coordinates of routes.
+       
        Stop Times: Timetables for each trip.
+       
        Stops: Locations of metro stops.
+       
        Trips: Information linking trips to routes.
 
   **3) Usage**
+  
         Analyze the Routes and Operations.
+        
         Examine Trip Frequency and Scheduling.
+        
         Analyze Stop Distribution and Connectivity.
+        
         Analyze Service Frequency.
+        
         Calculate Number of Trips per Time Interval.
+        
         Optimize Operations to Reduce Overcrowding.
 
  **4) File Structure**
@@ -56,6 +69,7 @@ Explore Metro Operations Optimization through data-driven techniques to enhance 
       ├── README.md
 
    **5) Contributing**
+   
          Contributions are welcome! Please follow these steps:-
 
              Fork the repository.
@@ -65,11 +79,14 @@ Explore Metro Operations Optimization through data-driven techniques to enhance 
              Open a Pull Request.
 
    **6) Credits**
-         Statso for the original problem statement.
-         Aman Kharwal
+   
+            Statso for the original problem statement.
+            Aman Kharwal
 
    **7) License**
-        This project is licensed under the MIT License - see the LICENSE file for details.
+   
+            This project is licensed under the MIT License - see the LICENSE file for details.
 
-   **8) Contact Information**
-         MailId:- santhuhitter1515@gmail.com
+   **8) Contact Information**  
+   
+            MailId:- santhuhitter1515@gmail.com
