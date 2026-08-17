@@ -86,7 +86,3 @@ Explore Metro Operations Optimization through data-driven techniques to enhance 
    **7) License**
    
             This project is licensed under the MIT License - see the LICENSE file for details.
-
-   **8) Contact Information**  
-   
-            MailId:- santhuhitter1515@gmail.com
